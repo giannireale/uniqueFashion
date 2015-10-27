@@ -1,5 +1,5 @@
 <?php # classe per l'interazione con il database    
-if ($_SERVER['SERVER_NAME'] == 'localhost') {
+if ($_SERVER['SERVER_NAME'] == 'localhost' || $_SERVER['SERVER_NAME'] == 'localhost:8088') {
     $connessione = mysql_connect("localhost", "root", "") or die('Errore nella connessione: ' . mysql_error());
     mysql_select_db('unique', $connessione);
 } else {

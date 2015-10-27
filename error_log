@@ -1,0 +1,48 @@
+[25-Oct-2015 21:04:44 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/navmenu.php on line 124
+[25-Oct-2015 21:04:44 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:23:45 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:27:25 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:28:40 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/contact.php on line 107
+[25-Oct-2015 21:28:40 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/soirkivm/public_html/contact.php on line 107
+[25-Oct-2015 21:28:56 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/chisiamo.php on line 189
+[25-Oct-2015 21:28:56 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/soirkivm/public_html/chisiamo.php on line 189
+[25-Oct-2015 21:28:56 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:28:58 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:28:59 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:29:00 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:29:05 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:29:06 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:29:07 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/chisiamo.php on line 189
+[25-Oct-2015 21:29:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/soirkivm/public_html/chisiamo.php on line 189
+[25-Oct-2015 21:29:09 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:29:10 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:29:11 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:29:13 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:29:17 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[25-Oct-2015 21:42:10 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[26-Oct-2015 08:43:09 Europe/Berlin] PHP Notice:  Undefined index: logged in /home/soirkivm/public_html/index.php on line 194
+[26-Oct-2015 16:19:01 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/contact.php on line 107
+[26-Oct-2015 16:19:01 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/soirkivm/public_html/contact.php on line 107
+[26-Oct-2015 16:19:01 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/contact.php on line 107
+[26-Oct-2015 16:19:01 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/soirkivm/public_html/contact.php on line 107
+[26-Oct-2015 16:19:10 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/contact.php on line 107
+[26-Oct-2015 16:19:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/soirkivm/public_html/contact.php on line 107
+[26-Oct-2015 16:42:27 Europe/Berlin] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/soirkivm/public_html/index.php) is not within the allowed path(s): (/www) in Unknown on line 0
+[26-Oct-2015 16:42:27 Europe/Berlin] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[26-Oct-2015 16:42:27 Europe/Berlin] PHP Fatal error:  Unknown: Failed opening required '/home/soirkivm/public_html/index.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in Unknown on line 0
+[26-Oct-2015 16:45:12 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/chisiamo.php on line 189
+[26-Oct-2015 16:45:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/soirkivm/public_html/chisiamo.php on line 189
+[26-Oct-2015 16:45:48 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/chisiamo.php on line 189
+[26-Oct-2015 16:45:48 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/soirkivm/public_html/chisiamo.php on line 189
+[26-Oct-2015 16:45:53 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/chisiamo.php on line 189
+[26-Oct-2015 16:45:53 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/soirkivm/public_html/chisiamo.php on line 189
+[26-Oct-2015 17:51:42 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/chisiamo.php on line 189
+[26-Oct-2015 17:51:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/soirkivm/public_html/chisiamo.php on line 189
+[26-Oct-2015 17:52:58 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/chisiamo.php on line 189
+[26-Oct-2015 17:52:58 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/soirkivm/public_html/chisiamo.php on line 189
+[26-Oct-2015 22:38:20 Europe/Berlin] PHP Fatal error:  Call to undefined function phpsession_start() in /home/soirkivm/public_html/navmenu.php on line 1
+[26-Oct-2015 22:43:54 Europe/Berlin] PHP Fatal error:  Call to undefined function phpsession_start() in /home/soirkivm/public_html/navmenu.php on line 1
+[27-Oct-2015 10:59:44 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/chisiamo.php on line 189
+[27-Oct-2015 10:59:44 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/soirkivm/public_html/chisiamo.php on line 189
+[27-Oct-2015 10:59:49 Europe/Berlin] PHP Warning:  include(modal.html): failed to open stream: No such file or directory in /home/soirkivm/public_html/contact.php on line 107
+[27-Oct-2015 10:59:49 Europe/Berlin] PHP Warning:  include(): Failed opening 'modal.html' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/soirkivm/public_html/contact.php on line 107

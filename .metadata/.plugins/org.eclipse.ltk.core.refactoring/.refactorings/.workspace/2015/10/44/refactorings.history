@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;uniqueFashionGit&apos;" deleteContents="true" description="Delete resource &apos;uniqueFashionGit&apos;" element1="/uniqueFashionGit" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1446038621529"/>
+</session>

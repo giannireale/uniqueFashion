@@ -5,14 +5,17 @@ class functions{
 	{
 	  $email = trim($email);
 	  $password = trim($password);
-	  if (strlen($email) == 0 || strlen($password) == 0) return false
+	  if (strlen($email) == 0 || strlen($password) == 0) 
+	  {
+	  	return false;
+	  }
 	  else {
 		$password = sha1($password);
-		$query = @mysql_query("SELECT email FROM user WHERE email = '$email'") or die('Errore: ' . mysql_error());
-		$conta = @mysql_num_rows($query);
+		$query = mysql_query("SELECT email FROM user WHERE email = '$email'") or die('Errore: ' . mysql_error());
+		$conta = mysql_num_rows($query);
 		if ($conta == 0) 
 		{
-		  $risultato = @mysql_query("INSERT INTO user( password, email) VALUES ('$password','$email')") or die('Errore: ' .mysql_error());
+		  $risultato = mysql_query("INSERT INTO user( password, email) VALUES ('$password','$email')") or die('Errore: ' .mysql_error());
 		  return $risultato;
 		}else{
 		  return false;
@@ -57,7 +60,6 @@ class functions{
 	{
 	  $_SESSION['login'] = FALSE;
 	  @session_destroy();
-	  }
 	}
 
 	# metodo per la visualizzazione del nome utente

@@ -186,7 +186,7 @@
         <!-- /.row -->
 
         <hr>
-		<?php include('modal.html');?> 
+		<?php include('modal.php');?> 
 		<?php include('footer.html');?> 
 
     </div>

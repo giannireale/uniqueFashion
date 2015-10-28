@@ -90,28 +90,28 @@ if (isset($_SESSION['logged'])) {
 					<a href="accessori.html">Accessori</a>
 				</li>
 				<li>
-					<a href="accessori.html">Promozioni</a>
+					<a href="promo.html">Promozioni</a>
 				</li>
 				<li>
-					<a href="accessori.html">Outlet</a>
+					<a href="outlet.html">Outlet</a>
 				</li>
 				<li>
-					<a href="accessori.html">Noleggio</a>
+					<a href="noleggio.html">Noleggio</a>
 				</li>
 				<li>
-					<a href="accessori.html">Sartoria</a>
+					<a href="sartoria.html">Sartoria</a>
 				</li>
 				<li>
-					<a href="accessori.html">Blog</a>
+					<a href="blog.html">Blog</a>
 				</li>
 				<li>
-					<a href="accessori.html">Newsletter</a>
+					<a href="news.html">Newsletter</a>
 				</li>
 				<li>
 					<a href="contact.php">Contatto</a>
 				</li>
 				<li>
-					<a href="accessori.html">Partners</a>
+					<a href="partners.html">Partners</a>
 				</li>
 				<li>  
 					<?php

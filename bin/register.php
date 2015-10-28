@@ -10,7 +10,7 @@
 			$query_registrazione = mysql_query("INSERT INTO user (email,password,username) VALUES ('".$_POST["email"]."','".$password."','".$_POST["username"]."')") // scrivo sul DB questi valori
 			or die ("query di registrazione non riuscita".mysql_error()); // se la query fallisce mostrami questo errore
 		}else{
-			echo "Utente già esistente"; // altrimenti esce scritta a video questa stringa
+			echo "Utente già esistente "; // altrimenti esce scritta a video questa stringa
 		}
 		if(isset($query_registrazione)){ //se la reg è andata a buon fine
 			session_start();

@@ -17,7 +17,7 @@
                 <ol class="breadcrumb">
                     <li><a href="index.php">Home</a>
                     </li>
-                    <li class="active">Chi siamo</li>
+                    <li class="active">Contatto</li>
                 </ol>
             </div>
         </div>

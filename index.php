@@ -52,9 +52,6 @@
                 </div>
                 <div class="col-md-2">
                     <a class="btn btn-lg btn-default btn-block" data-toggle="modal" data-target="#regModal">Registrati Ora !</a>
-					<form action="../bin/create.php"  method="POST">
-						<!-- button type="submit" class="btn btn-default">CREATE</button -->
-					</form>
                 </div>
             </div>
         </div>
@@ -73,7 +70,7 @@
 							<h4><b>Abiti da sposa</b></h4>
 						</div>
 						<div class="panel-body">
-							<img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+							<img class="img-responsive img-portfolio img-hover" src="img/mini.jpg" alt="">
 							<a href="#" class="btn btn-default">Vedi</a>
 						</div>
 					</div>
@@ -84,7 +81,7 @@
 							<h4><b>Abiti da sposo</b></h4>
 						</div>
 						<div class="panel-body">
-							<img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+							<img class="img-responsive img-portfolio img-hover" src="img/sposo.jpg" alt="">
 							<a href="#" class="btn btn-default">Vedi</a>
 						</div>
 					</div>
@@ -95,7 +92,7 @@
 							<h4><b>Abiti da cerimonia</b></h4>
 						</div>
 						<div class="panel-body">
-							<img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+							<img class="img-responsive img-portfolio img-hover" src="img/mini.jpg" alt="">
 							<a href="#" class="btn btn-default">Vedi</a>
 						</div>
 					</div>
@@ -111,32 +108,32 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="img/sposo.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="img/mini.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="img/sposo.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="img/mini.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="img/sposo.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="img/mini.jpg" alt="">
                 </a>
             </div>
         </div>

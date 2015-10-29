@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-<?php session_start();
-=======
 <?php
+
 session_start();
->>>>>>> origin/master
+
 //ini_set('display_errors','On');
 //error_reporting(E_ALL);
 if (isset($_SESSION['logged'])) {
@@ -95,7 +93,6 @@ if (isset($_SESSION['logged'])) {
 					<a href="accessori.html">Accessori</a>
 				</li>
 				<li>
-<<<<<<< HEAD
 					<a href="promo.html">Promozioni</a>
 				</li>
 				<li>
@@ -112,38 +109,14 @@ if (isset($_SESSION['logged'])) {
 				</li>
 				<li>
 					<a href="news.html">Newsletter</a>
-=======
-					<a href="accessori.html">Promozioni</a>
-				</li>
-				<li>
-					<a href="accessori.html">Outlet</a>
-				</li>
-				<li>
-					<a href="accessori.html">Noleggio</a>
-				</li>
-				<li>
-					<a href="accessori.html">Sartoria</a>
-				</li>
-				<li>
-					<a href="accessori.html">Blog</a>
-				</li>
-				<li>
-					<a href="accessori.html">Newsletter</a>
->>>>>>> origin/master
 				</li>
 				<li>
 					<a href="contact.php">Contatto</a>
 				</li>
 				<li>
-<<<<<<< HEAD
 					<a href="partners.html">Partners</a>
 				</li>
-				<li>  
-=======
-					<a href="accessori.html">Partners</a>
-				</li>
 				<li>
->>>>>>> origin/master
 					<?php
 					if ($disabled == 'disabled') {
 						echo '<a class="btn btn-sm" data-toggle="modal" data-target="#regModal">Log-In</a>';
@@ -153,7 +126,7 @@ if (isset($_SESSION['logged'])) {
 					?>
 				</li>
 				<li>
-					<a href="https://www.facebook.com/UniqueFashionItaly"> <i class="fa fa-facebook fa-2x"></i> </a>
+					<a class="btn btn-primary btn-sm" href="https://www.facebook.com/UniqueFashionItaly"> <i class="fa fa-facebook fa-lg fa-border"></i> </a>
 				</li>
 			</ul>
 		</div>
